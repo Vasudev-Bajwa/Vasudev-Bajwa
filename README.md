@@ -1,22 +1,17 @@
-# Hi, I'm Vasudev Bajwa 🚀
+# Hi, I'm Vasudev Bajwa 
 
 **Full-stack Developer | Solana Enthusiast**
 
-Currently focused on mastering memory-safe systems and gearing up for **GSoC 2026**.
+Currently focused on learning Rust and gearing up for **GSoC 2026**.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages:** C++ (Intermediate), Rust (Learning), Python
 - **Web3:** Solana (Anchor, Rust)-Learning
 - **Web2:** MERN Stack, TypeScript
 - **Tools:** Git, Docker
-
-### 🔭 Current Focus
-- Learning **Rust**
-- Contributing to open-source infrastructure and distributed systems.
-- Turning complex problems into scalable, clean code.
 
 ---
 
