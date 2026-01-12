@@ -18,9 +18,6 @@ Currently focused on mastering memory-safe systems and gearing up for **GSoC 202
 - Contributing to open-source infrastructure and distributed systems.
 - Turning complex problems into scalable, clean code.
 
-### 📊 GitHub Stats
-![Vasudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasudev-Bajwa&show_icons=true&theme=transparent)
-
 ---
 
 ### 🤝 Let's Connect
