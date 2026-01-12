@@ -15,7 +15,7 @@ Currently focused on learning Rust and gearing up for **GSoC 2026**.
 
 ---
 
-### 🤝 Let's Connect
-- 📧 **Email:** [vasudevbajwa@gmail.com](mailto:vasudevbajwa@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/vasudev-bajwa-699a76360/]
-- 🐦 **Twitter/X:** [@vasudev1582936]
+###  Let's Connect
+-  **Email:** [vasudevbajwa@gmail.com](mailto:vasudevbajwa@gmail.com)
+-  **LinkedIn:** [https://www.linkedin.com/in/vasudev-bajwa-699a76360/]
+-  **Twitter/X:** [@vasudev1582936]
