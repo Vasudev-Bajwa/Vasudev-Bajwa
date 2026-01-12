@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vasudev Bajwa 🚀
 
-<!--
-**Vasudev-Bajwa/Vasudev-Bajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer | Solana & Systems Enthusiast**
 
-Here are some ideas to get you started:
+Currently focused on mastering memory-safe systems and gearing up for **GSoC 2026**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++ (Intermediate), Rust (Learning), Python
+- **Web2:** MERN Stack, TypeScript
+- **Tools:** Git, Docker
+
+### 🔭 Current Focus
+- Learning **Rust**
+- Contributing to open-source infrastructure and distributed systems.
+- Turning complex problems into scalable, clean code.
+
+### 📊 GitHub Stats
+![Vasudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasudev-Bajwa&show_icons=true&theme=transparent)
+
+---
+
+### 🤝 Let's Connect
+- 📧 **Email:** [vasudevbajwa@gmail.com](mailto:vasudevbajwa@gmail.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/vasudev-bajwa-699a76360/]
+- 🐦 **Twitter/X:** [@vasudev1582936]
