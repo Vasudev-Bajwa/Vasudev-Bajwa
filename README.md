@@ -1,21 +1,16 @@
-# Hi, I'm Vasudev Bajwa 
+## Hi, I'm Vasudev
 
-**Full-stack Developer | Solana Enthusiast**
+```rust
+Arc<Mutex<OneBrainCell>>
+```
 
-Currently focused on learning Rust and gearing up for **GSoC 2026**.
-
----
-
-###  Tech Stack
-
-- **Languages:** C++ (Intermediate), Rust (Learning), Python
-- **Web3:** Solana (Anchor, Rust)-Learning
-- **Web2:** MERN Stack, TypeScript
-- **Tools:** Git, Docker
+a major-side quest - finish college before universe ends.
 
 ---
 
-###  Let's Connect
--  **Email:** [vasudevbajwa@gmail.com](mailto:vasudevbajwa@gmail.com)
--  **LinkedIn:** [https://www.linkedin.com/in/vasudev-bajwa-699a76360/]
--  **Twitter/X:** [@vasudev1582936]
+### Portfolio
+
+coming soon...
+
+Curated evidence that I occasionally finish things.
+---
