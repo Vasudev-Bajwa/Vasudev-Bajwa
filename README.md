@@ -8,9 +8,8 @@ a major-side quest - finish college before universe ends.
 
 ---
 
-### Portfolio
+## Portfolio
 
 coming soon...
 
-Curated evidence that I occasionally finish things.
 ---
